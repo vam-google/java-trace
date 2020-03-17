@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/googleapis/java-trace/compare/v1.0.2...v1.0.3) (2020-03-17)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-core to v1.93.1 ([#118](https://www.github.com/googleapis/java-trace/issues/118)) ([30c46c4](https://www.github.com/googleapis/java-trace/commit/30c46c43ff4e993d98ac449bdd3ac71749eaca8f))
+
 ### [1.0.2](https://www.github.com/googleapis/java-trace/compare/v1.0.1...v1.0.2) (2020-03-02)
 
 
